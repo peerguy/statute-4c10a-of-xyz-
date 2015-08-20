@@ -1,0 +1,232 @@
+/*!
+ * Start Bootstrap - Shop Homepage HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px;
+    background-color: #eee; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 50px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.jewel{
+  height: 25px;
+}
+
+@media (min-width: 768px) {.navbar-nav {
+    float: right;
+    margin: 0;
+}
+
+.navbar-nav > li {
+    float: right;
+}
+
+.navbar-nav > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navbar-brand {
+  float: left;
+  height: 50px;
+  padding: 9px;
+  font-size: 26px;
+  line-height: 20px;
+  ;
+}
+
+.pp {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    top: 0px;
+    display: block;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border: 5px;
+    border-radius: 5px;
+    border-color: white;
+    border-style: solid;
+    box-shadow: 0 0 0 1px #ddd;
+
+}
+
+.map {
+    display: block;
+    height: 100%;
+    width: 100%;
+    object-fix: cover;
+    
+
+}
+
+hr {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border: 0;
+  border-top: 1px solid #eee;
+}
+
+.thumbnail{
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: -10px;
+    padding-top: 10px;
+}
+
+.lead {
+    margin-bottom: 10px;
+}
+
+.micon {
+    display: inline-block;
+    height: 60px;
+    width: 60px; 
+    border-radius: 50px;
+    border-color: #fff;
+    border-style: solid;
+    border: 20px;
+    box-shadow: 0 0 0 3px #fff, 0 0 0 4px #ddd;
+    margin-bottom: 5px;
+    margin-left: -15px;
+    object-fit: cover;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.marketplace-icons {
+    list-style-type: none;
+    display: inline-block;
+    width: 60px;
+    margin-left: 5px;
+}
+
+.pull-right-centered{
+  float: right !important;
+  line-height: 70px;
+  padding-right: 10px;
+}
+
+.ppnm {
+    display: inline-block;
+    float: center;
+    width: 80px;
+    height: 150px; 
+    
+    border-color: #fff;
+    border-style: solid;
+    border: 20px;
+    
+    margin-bottom: 5px;
+    object-fit: cover;
+    margin-top: 0px;
+    margin-bottom: -10px;
+
+}
+
+.city {
+    float: right;
+    line-height: 23px;
+}
+
+.pnm-rating {
+    float: right;
+    padding-top: 12px;
+    
+
+}
+
+.pnm-icons {
+    list-style-type: none;
+    display: inline-block;
+    width: 40px;
+    margin-left: px;
+}
+
+.no-margin {
+    margin-top: 0px;
+}
+.pnm-rating-num {
+    float: right;
+    padding-top: 11px;
+    margin-left: 5px;
+
+}
+
+.search-bar {
+    height: 60px;
+    background-color: #fff;
+    padding: 5px;
+    margin: 0 15px 15px 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #0ADBD8;
+  border-color: #ddd;
+}
+
+.gps {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    top: 0px;
+    display: block;
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+    border: 5px;
+    border-radius: 5px;
+    border-color: white;
+    border-style: solid;
+    box-shadow: 0 0 0 1px #ddd;
+}
+
+

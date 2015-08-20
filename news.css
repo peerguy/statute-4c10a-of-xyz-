@@ -1,0 +1,85 @@
+/*!
+ * Start Bootstrap - Blog Home HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px;
+    background-color: #eee; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.jewel{
+  height: 25px;
+}
+
+@media (min-width: 768px) {.navbar-nav {
+    float: right;
+    margin: 0;
+}
+
+.navbar-nav > li {
+    float: right;
+}
+
+.navbar-nav > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navbar-brand {
+  float: left;
+  height: 50px;
+  padding: 9px;
+  font-size: 26px;
+  line-height: 20px;
+  ;
+}
+
+.pp {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    top: 0px;
+    display: block;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border: 5px;
+    border-radius: 5px;
+    border-color: white;
+    border-style: solid;
+    box-shadow: 0 0 0 1px #333;
+
+}
+
+.page-header {
+	margin-top: 20px;
+}
+
+.input-group{
+  position: relative;
+  display: table;
+  border-collapse: separate;
+  width: 400px;
+  margin-top: 10.5px;
+}
+
+.thumbnail {
+	padding: 20px;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #0ADBD8;
+  border-color: #ddd;
+}
+
+.img-responsive {
+	object-fit: cover;
+	width: 100%;
+	
+}
